@@ -11,6 +11,7 @@
 	"description": "A freeCodeCamp project to study and practice Node.js",
 	"keywords": ["node.js", "npm", "freecodecamp"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
