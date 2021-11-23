@@ -1,6 +1,6 @@
 {
+	"author": "Francisca Galaz",
 	"name": "fcc-learn-npm-package-json",
-	"author": "Frannyontech",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
