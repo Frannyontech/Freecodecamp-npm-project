@@ -1,5 +1,4 @@
 {
-	"author": "Francisca Galaz",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -8,6 +7,8 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author": "Francisca Galaz",
+	"description": "A freeCodeCamp project to study and practice Node.js",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
