@@ -10,6 +10,7 @@
 	"author": "Francisca Galaz",
 	"description": "A freeCodeCamp project to study and practice Node.js",
 	"keywords": ["node.js", "npm", "freecodecamp"],
+	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
